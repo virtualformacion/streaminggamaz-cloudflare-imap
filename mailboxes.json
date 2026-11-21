@@ -10,6 +10,16 @@
       "password_encrypted": "{\"v\":1,\"iv\":\"boKvigXpOZa0qxpr\",\"data\":\"rG2GikMn0SDd4POzG/H6dw77gS+52le6Sg5VW4rvAsQ=\"}",
       "created_at": "2026-11-19T20:43:17.082Z",
       "updated_at": "2026-11-19T20:43:17.082Z"
+    },
+    {
+      "id": "901c3dfa-72d2-41a2-9e5e-cba15ed35b3b",
+      "email": "webserviciocodigos@gmail.com",
+      "name": "web",
+      "folder": "",
+      "active": 1,
+      "password_encrypted": "{\"v\":1,\"iv\":\"WoqEEubH0lyhDzQn\",\"data\":\"kImgb03qB1uqodEPqSlTZtdcu1DFnAC+xdeZymBNFxM=\"}",
+      "created_at": "2026-11-21T15:50:46.568Z",
+      "updated_at": "2026-11-21T15:50:46.568Z"
     }
   ]
 }
